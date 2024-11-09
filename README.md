@@ -38,7 +38,7 @@ For more information about the challenge, access the challenge editor on [devCha
 - [ ] Plan your approach to the project by identifying reusable CSS classes and structuring your HTML content.
 - [ ] Define the base styles for your project, including font-family, font-size, and other general content styles.
 - [ ] Begin adding styles from the top of the page and work your way down, ensuring that each section is visually appealing and matches the provided design.
-- [ ] Optimize and resize the required assets from the `/images` folder as necessary.
+- [ ] Optimize and resize the required assets from the `/resources` folder as necessary.
 - [ ] Test your project's responsiveness by previewing it on different devices and screen sizes.
 - [ ] Once you are satisfied with your implementation, deploy your project to a hosting platform such as GitHub Pages, Vercel, or Netlify.
 - [ ] Submit your solution on devchallenges.io and aim to pass the design comparison and performance tests.
